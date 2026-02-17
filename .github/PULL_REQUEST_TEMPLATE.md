@@ -12,7 +12,31 @@ Please delete options that are not relevant.
 - [ ] New feature
 - [ ] Code refactor
 - [ ] Documentation update
-- [ ] Other (please describe)
+- [ ] Other: ____________
+
+## AI Utilization
+Please document your AI workflow below to help reviewers understand the logic generation process.
+
+- **What AI tool(s) were used?**
+    - [ ] GitHub Copilot
+    - [ ] ChatGPT / Claude / Gemini
+    - [ ] Other: ____________
+    - [ ] None used
+
+
+- **What was it used for?**
+    - [ ] Code generation (new logic/functions)
+    - [ ] Refactoring existing code
+    - [ ] Generating unit tests or documentation
+    - [ ] Debugging or error explanation
+    - [ ] Other: ____________
+
+
+- **Was it useful?**
+    - [ ] Yes, it significantly sped up the task
+    - [ ] Somewhat, but required heavy manual editing
+    - [ ] Not really, it provided incorrect or suboptimal suggestions
+    - [ ] Other: ____________
 
 ## How has this been tested?
 
